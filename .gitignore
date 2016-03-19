@@ -1,0 +1,10 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+.ipyno_checkpoints/
+
+# My configurations:
+db.ini
+deploy_key_rsa
