@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+./build/tools/caffe train --solver=../cdg/mnist/train1/solver.prototxt
+
