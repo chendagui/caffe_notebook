@@ -3,7 +3,7 @@
 *.so
 *.egg
 *.egg-info
-.ipyno_checkpoints/
+.ipynb_checkpoints/
 
 # My configurations:
 db.ini
